@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishakha Deshpande</h1>
-<h3 align="center">A passionate software development ,Data Science and AIML enthusiast.</h3>
+<h3 align="center">A rising senior at Pimpri Chinchwad College of Engineering Pune(PCCOE), pursuing a B-Tech in Computer Engineering. My passion for technology is a unique blend of computer engineering and artistic influences where I leverage modern technologies to unleash my creativity and drive innovation.
+
+I am an enthusiastic learner when it comes to Data Science, Augmented/Virtual Reality, Cloud computing and 
+Artificial Intelligence/Machine Learning.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
